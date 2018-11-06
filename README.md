@@ -1,0 +1,2 @@
+# Acad-assignment---SCIPY-MATPLOTLIB
+SCIPY &amp; MATPLOTLIB
